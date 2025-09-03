@@ -1,5 +1,5 @@
 ````markdown
-# Projeto Web Aula 27 – Versão com Docker
+# Projeto : "Meu-projeto-docker" – Versão com Docker
 
 Este projeto foi baseado no repositório fornecido em aula e modificado para rodar em **containers Docker** com orquestração via **Docker Compose**.
 
